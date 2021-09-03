@@ -6,4 +6,4 @@ Feature: Academy Choucair
   Scenario: Search for a automation course
   Given than Jeff wants to learn automation course at the Choucair Academy
   When he searches for the course Recursos Automatización Bancolombia on the Choucair Academy platform
-  Then he finds the course called resources Recursos Automatización Bancolombia
+  Then he finds the course called resources Recursos Automatizacion Bancolombia
