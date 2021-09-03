@@ -4,6 +4,7 @@ import co.com.choucair.certification.proyectobase.userinterface.SearchCoursePage
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;
+import co.com.choucair.certification.proyectobase.model.AcademyChoucairData;
 
 public class Answer implements Question<Boolean> {
     private String question;
