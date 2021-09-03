@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="cucumber-core-6.10.41">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/cucumber-core-6.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/cucumber-expressions-10.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/cucumber-gherkin-6.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/cucumber-gherkin-messages-6.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/cucumber-java-6.10.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/cucumber-plugin-6.10.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
