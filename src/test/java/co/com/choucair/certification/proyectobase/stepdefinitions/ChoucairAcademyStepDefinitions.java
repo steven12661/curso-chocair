@@ -33,8 +33,7 @@ public class ChoucairAcademyStepDefinitions {
     }
 
     @Then("^he finds the course called resources (.*)$")
-    /*    public void heFindsTheCourseCalledResourcesRecursosAutomatizacionBancolombia(List<AcademyChoucairData> academyChoucairData) {
-        OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat((Answer.toThe(academyChoucairData.get(0).getStrCourse()))));*/
+
     public void heFindsTheCourseCalledResourcesRecursosAutomatizacionBancolombia(String question) {
         OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat((Answer.toThe(question))));
     }

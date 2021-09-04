@@ -11,6 +11,3 @@ Feature: Academy Choucair
       | strCourse          |
       | Metodologia Bancolombia |
     Then he finds the course called resources Metodología Bancolombia
-#    Then he finds the course called
-#      | strCourse          |
-#      | Metodologia Bancolombia |

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Academy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-03T23:49:03" hostname="STEVEN-PC" time="23.198">
+<testsuite name="Academy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-04T00:17:44" hostname="STEVEN-PC" time="23.344">
   <properties/>
-  <testcase name="Search for a automation course" classname="Academy Choucair" time="23.198"/>
+  <testcase name="Search for a automation course" classname="Academy Choucair" time="23.344"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7a5e5c60
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@54c40f47
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3ea622a
-Sep 03, 2021 6:49:03 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@30b2c1cb
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5959cca8
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4b1b9011
+Sep 03, 2021 7:17:45 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 93.0.4577.15 (660fc11082ba57405eca2e8c49c3e1af756fbfae-refs/branch-heads/4577@{#203}) on port 25280
+Starting ChromeDriver 93.0.4577.15 (660fc11082ba57405eca2e8c49c3e1af756fbfae-refs/branch-heads/4577@{#203}) on port 42583
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Sep 03, 2021 6:49:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Sep 03, 2021 7:17:46 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
@@ -22,20 +22,20 @@ INFO: Detected dialect: W3C
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@d89317c
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4cc2bfe9
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@486f2a3e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@31a7f2c7
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4ff73e35
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7a3d3dd1
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login, Jeff enters '1152713076' into where do we write the user]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@756633e1
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3ddce621
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login, Jeff enters '1152713076' into where do we write the user, Jeff enters 'Choucair2021*' into where do we write the password]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@520b389
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4a803222
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login, Jeff enters '1152713076' into where do we write the user, Jeff enters 'Choucair2021*' into where do we write the password, Jeff clicks on button to comfirm login]]
@@ -45,27 +45,27 @@ INFO: Detected dialect: W3C
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login, Jeff enters '1152713076' into where do we write the user, Jeff enters 'Choucair2021*' into where do we write the password, Jeff clicks on button to comfirm login]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7554d75
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@371d3a3c
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@45a7ae65
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1bf03c01
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@8673436
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@71c39ccd
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login, Jeff enters '1152713076' into where do we write the user, Jeff enters 'Choucair2021*' into where do we write the password, Jeff clicks on button to comfirm login]], When he search for the course on the choucair academy platform
 | strCourse |
 | Metodologia Bancolombia | [Jeff search [Jeff clicks on Selecciona la Universidad choucair]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@315c3b3b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6c370186
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login, Jeff enters '1152713076' into where do we write the user, Jeff enters 'Choucair2021*' into where do we write the password, Jeff clicks on button to comfirm login]], When he search for the course on the choucair academy platform
 | strCourse |
 | Metodologia Bancolombia | [Jeff search [Jeff clicks on Selecciona la Universidad choucair, Jeff enters 'Metodologia Bancolombia' into Buscar el curso]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@369e002b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5ab35c22
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login, Jeff enters '1152713076' into where do we write the user, Jeff enters 'Choucair2021*' into where do we write the password, Jeff clicks on button to comfirm login]], When he search for the course on the choucair academy platform
 | strCourse |
 | Metodologia Bancolombia | [Jeff search [Jeff clicks on Selecciona la Universidad choucair, Jeff enters 'Metodologia Bancolombia' into Buscar el curso, Jeff clicks on Da click para buscar el curso]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6e09ecfb
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@142e65ac
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login, Jeff enters '1152713076' into where do we write the user, Jeff enters 'Choucair2021*' into where do we write the password, Jeff clicks on button to comfirm login]], When he search for the course on the choucair academy platform
@@ -81,8 +81,8 @@ INFO: Detected dialect: W3C
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login, Jeff enters '1152713076' into where do we write the user, Jeff enters 'Choucair2021*' into where do we write the password, Jeff clicks on button to comfirm login]], When he search for the course on the choucair academy platform
 | strCourse |
 | Metodologia Bancolombia | [Jeff search [Jeff clicks on Selecciona la Universidad choucair, Jeff enters 'Metodologia Bancolombia' into Buscar el curso, Jeff clicks on Da click para buscar el curso, Jeff clicks on Da click para ingresar al curso]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@78fdd2a1
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6a73fb75
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@166b3e22
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7f99638b
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than jeff wants to learn automation at the academy Choucair
 | strUser | strPassword |
 | 1152713076 | Choucair2021* | [Jeff open up [Jeff opens the Choucair academy page], Jeff login [Jeff clicks on button that shows us the form to login, Jeff enters '1152713076' into where do we write the user, Jeff enters 'Choucair2021*' into where do we write the password, Jeff clicks on button to comfirm login]], When he search for the course on the choucair academy platform
