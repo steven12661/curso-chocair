@@ -29,8 +29,4 @@ public class Answer implements Question<Boolean> {
         return result;
     }
 
-    @Override
-    public String getSubject() {
-        return Question.super.getSubject();
-    }
 }
